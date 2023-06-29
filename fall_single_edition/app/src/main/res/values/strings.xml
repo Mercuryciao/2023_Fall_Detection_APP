@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SrooM</string>
+    <string name="high_risk_string">High Risk Detected\nBathroom\nMom 05-June-2023</string>
+    <string name="personal_picture">personal_picture</string>
+    <string name="no_alert_text">No Alert</string>
+    <string name="no_risk_string">No Risk Detected\nBathroom\nMom 05-June-2023</string>
+</resources>

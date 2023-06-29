@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="high_risk_string">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FF0000</item>
+    </style>
+
+    <style name="no_alert_text">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#18345A</item>
+    </style>
+
+    <style name="no_risk_string">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#979797</item>
+    </style>
+</resources>

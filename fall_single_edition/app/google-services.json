@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "886247376821",
+    "project_id": "falldetection-386022",
+    "storage_bucket": "falldetection-386022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886247376821:android:2d88ebf3226161dc627bfc",
+        "android_client_info": {
+          "package_name": "com.example.fall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886247376821-ou0g8a108gvdvcp2jr8tf4mr4j200ufo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN_i9xFj5TVJx3R_iWnehxKvu9fzNMVY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886247376821-ou0g8a108gvdvcp2jr8tf4mr4j200ufo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886247376821:android:2b11f152fdf5d615627bfc",
+        "android_client_info": {
+          "package_name": "com.example.fall_single_edition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886247376821-ou0g8a108gvdvcp2jr8tf4mr4j200ufo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN_i9xFj5TVJx3R_iWnehxKvu9fzNMVY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886247376821-ou0g8a108gvdvcp2jr8tf4mr4j200ufo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
