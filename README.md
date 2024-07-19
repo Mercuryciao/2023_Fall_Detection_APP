@@ -55,4 +55,4 @@ The solution combines a Geophone and a Thermal Imaging Camera:
 - **Add Profiles**: Enables adding multiple elderly individuals to the caregiver’s profile.
 
 ## APP UI
-<img src="app_no_alert.png" width="230" height="600"> <img src="app_send_alert.png" width="230" height="600"> <img src="thermal_image.png" width="230" height="600">
+<img src="app_no_alert.png" width="260" height="600"> <img src="app_send_alert.png" width="260" height="600"> <img src="thermal_image.png" width="260" height="600">
